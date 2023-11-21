@@ -1,0 +1,13 @@
+
+#app,body,html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  
+  background-color: black;
+}
+pre {
+  background-color: rgb(199, 199, 199);
+  padding: 20px;
+  border-radius: 5px;
+}
