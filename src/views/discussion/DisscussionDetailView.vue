@@ -13,7 +13,7 @@
             </div>
             <div class="content_disssion_conttent">
                 <div class="textarea">thisi is a text</div>
-                <!-- TODO if else 判断视频封面还是图片封面 -->
+                <!-- TODO if else 判断视频封面还是图片asdasd 封面 fdfds-->
                 <div v-if="true" class="picture_area">
                     <div v-for="item in 5" class="pic_item"></div>
                 </div>
